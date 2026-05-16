@@ -1,0 +1,29 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp & backup files
+*.tmp
+*.bak
+*.swp
+*~
+
+# LTspice simulation artifacts
+*.op
+*.raw
+*.log
+*.net
+
+# Proteus backup files
+*.DBK
+*.PWI
+
+# KiCad artifacts
+*.kicad_pcb-bak
+*.sch-bak
+fp-info-cache
+*-backups/
+
+# Windows shortcuts
+*.lnk

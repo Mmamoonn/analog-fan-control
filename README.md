@@ -128,5 +128,4 @@ Robotics Engineering Student
 
 ## 🙏 Acknowledgements
 
-- Course Instructor: **Engr. Fazeel Abbas**
 - References: Analog Electronics textbooks and op-amp application notes

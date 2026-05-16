@@ -122,7 +122,7 @@ See the [LICENSE](LICENSE) file for full details.
 ## 👤 Author
 
 **Mamoon**
-Electronics Engineering Student
+Robotics Engineering Student
 
 ---
 

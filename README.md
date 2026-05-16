@@ -59,7 +59,6 @@ analog-fan-control/
 ├── P2.jpeg                      ← Photo 2 of the assembled circuit
 ├── Demo.mp4                     ← Video demonstration of the system
 ├── README.md                    ← This file
-├── BOM.md                       ← Bill of Materials
 ├── CALIBRATION.md               ← Calibration Guide
 ├── TROUBLESHOOTING.md           ← Troubleshooting Tips
 └── LICENSE                      ← Project License
@@ -103,7 +102,6 @@ The op-amp compares V_sense (non-inverting input) to V_ref (inverting input, set
 
 2. **Review the documentation:**
    - Open `fan_control_schematic.png` to see the circuit diagram
-   - Check `BOM.md` for a complete list of components
    - Read `CALIBRATION.md` for setup instructions
 
 3. **Assemble the circuit:**
@@ -122,7 +120,6 @@ The op-amp compares V_sense (non-inverting input) to V_ref (inverting input, set
 
 ## 📖 Documentation
 
-- **[BOM.md](BOM.md)** - Complete bill of materials with part numbers and suppliers
 - **[CALIBRATION.md](CALIBRATION.md)** - Step-by-step calibration and setup guide
 - **[TROUBLESHOOTING.md](TROUBLESHOOTING.md)** - Common issues and solutions
 

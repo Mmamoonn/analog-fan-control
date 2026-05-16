@@ -479,52 +479,6 @@ Use this table to estimate your current temperature based on voltage reading at 
 
 ---
 
-## 📝 Calibration Log
-
-Record your calibration data for future reference:
-
-```
-Date: _______________
-Operator: _______________
-
-Initial Measurements:
-  Power Supply Voltage: _____ V
-  Op-Amp Vcc (pin 8): _____ V
-  Op-Amp GND (pin 4): _____ V
-
-Cold Test (0°C / Ice Bath):
-  Op-Amp Input (pin 3): _____ V
-  Op-Amp Output (pin 6): _____ V (0V = LOW / 9V = HIGH)
-  Fan State: OFF / ON
-
-Room Temperature Test (25°C):
-  Op-Amp Input (pin 3): _____ V
-  Op-Amp Output (pin 6): _____ V
-  Fan State: OFF / ON
-
-Hot Test (40°C / Warm Water):
-  Op-Amp Input (pin 3): _____ V
-  Op-Amp Output (pin 6): _____ V
-  Fan State: OFF / ON
-
-Potentiometer Threshold Setting:
-  Position: ___° (0° = CCW, 360° = CW)
-  Voltage at Pin 2: _____ V
-  Actual trigger temperature: _____ °C
-
-Hysteresis Test:
-  Chattering observed: YES / NO
-  Hysteresis resistor added: YES / NO / NOT NEEDED
-  Value used: _____ Ω
-
-Final Status: ✓ WORKING / ⚠ NEEDS ADJUSTMENT / ✗ FAILED
-
-Notes:
-_________________________________________________________________
-_________________________________________________________________
-```
-
----
 
 ## ✅ System Verification Checklist
 

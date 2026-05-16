@@ -54,7 +54,7 @@ The circuit schematic is available in the `/schematic` folder.
 
 ```
 /schematic
-  └── fan_control_schematic.pdf   ← Main circuit diagram
+  └── fan_control_schematic.png   ← Main circuit diagram
 ```
 
 ---
@@ -90,7 +90,10 @@ The op-amp compares V_sense (non-inverting input) to V_ref (inverting input, set
 ```
 analog-fan-control/
 ├── schematic/
-│   └── fan_control_schematic.pdf
+│   └── fan_control_schematic.png
+|   └── P1.jpeg
+|   └── P2.jpeg
+|   └── Demo.mp4
 ├── README.md
 └── LICENSE
 ```
